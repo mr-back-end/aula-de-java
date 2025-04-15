@@ -1,2 +1,2 @@
-# aula-de-java
+# exercicios-de-repetição
 exercícios de laço de repetição 
